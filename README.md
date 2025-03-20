@@ -1,2 +1,2 @@
 # Python-Learning
- Python Learning repo
+ Python Learning repository
